@@ -4,6 +4,5 @@
 
 - Express
 - Javascript
-- EJS 
+- EJS
 - CSS
-- Heroku
